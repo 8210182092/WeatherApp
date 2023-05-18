@@ -19,7 +19,7 @@ import java.util.Date;
 
 public class WeatherRVAdapter extends RecyclerView.Adapter<WeatherRVAdapter.ViewHolder>{
     private Context context;
-    private ArrayList<WeatherRVModal> weatherRVModalArraylist;
+    private ArrayList<WeatherRVModal> weatherRVModalArrayList;
 
     public WeatherRVAdapter(Context context, ArrayList<WeatherRVModal> weatherRVModalArrayList) {
         this.context = context;
