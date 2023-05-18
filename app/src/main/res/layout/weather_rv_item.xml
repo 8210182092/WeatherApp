@@ -15,12 +15,6 @@
         android:background="@drawable/card_back"
         >
 
-    <RelativeLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:background="@drawable/card_back"
-        >
-
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
